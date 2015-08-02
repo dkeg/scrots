@@ -1,6 +1,10 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+
+##### _poly
+![git_tag](https://github.com/dkeg/scrots/blob/master/_poly.png)
+
 ##### _exposed
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_exposed.png)
 
