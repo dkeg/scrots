@@ -4,6 +4,7 @@
 
 ##### _harbing 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_harbing.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_dirty.png)
 
 ##### _poly
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_poly.png)
