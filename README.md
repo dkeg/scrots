@@ -2,6 +2,9 @@
 ##### collection of scrots
 
 
+##### _minus2b 
+![git_tag](https://github.com/dkeg/scrots/blob/master/_minus2b.png)
+
 ##### _harbing 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_harbing.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_dirty.png)
