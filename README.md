@@ -1,6 +1,8 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _squares 
+![git_tag](https://github.com/dkeg/scrots/blob/master/_squares.png)
 
 ##### _minus2b 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_minus2b.png)
