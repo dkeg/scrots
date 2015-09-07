@@ -1,6 +1,9 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _illusion 
+![git_tag](https://github.com/dkeg/scrots/blob/master/_illusion.png)
+
 ##### _squares 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_squares.png)
 
