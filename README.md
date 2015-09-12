@@ -1,6 +1,9 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _schredd_d 
+![git_tag](https://github.com/dkeg/scrots/blob/master/_schredd_d.png)
+
 ##### _illusion 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_illusion.png)
 
@@ -12,7 +15,6 @@
 
 ##### _harbing 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_harbing.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_dirty.png)
 
 ##### _poly
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_poly.png)
