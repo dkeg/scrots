@@ -1,6 +1,9 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _wintrymix
+![git_tag](https://github.com/dkeg/scrots/blob/master/_wintrymix.png)
+
 ##### _headphones 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_headphones.png)
 
