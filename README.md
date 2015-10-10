@@ -1,6 +1,9 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _autm
+![git_tag](https://github.com/dkeg/scrots/blob/master/_autm.png)
+
 ##### _wintrymix
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_wintrymix.png)
 
