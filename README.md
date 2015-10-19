@@ -1,6 +1,9 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _novmbr
+![git_tag](https://github.com/dkeg/scrots/blob/master/_novmbr.png)
+
 ##### _autm
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_autm.png)
 
