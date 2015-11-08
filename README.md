@@ -1,6 +1,12 @@
 ##### dkeg 2015
 ##### collection of scrots
 
+##### _stv
+![git_tag](https://github.com/dkeg/scrots/blob/master/_stv-again.png)
+
+##### _raiin
+![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
+
 ##### _novmbr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_novmbr.png)
 
