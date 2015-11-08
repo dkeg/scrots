@@ -7,6 +7,12 @@
 ##### _raiin
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
 
+##### _raiin
+![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
+
+##### _bulb
+![git_tag](https://github.com/dkeg/scrots/blob/master/_bulb.png)
+
 ##### _novmbr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_novmbr.png)
 
