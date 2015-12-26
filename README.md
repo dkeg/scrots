@@ -1,7 +1,7 @@
 ##### dkeg 2015
 ##### collection of scrots
 
-##### _stv
+##### _relax
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_relax.png)
 
 ##### _stv
