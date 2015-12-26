@@ -2,10 +2,10 @@
 ##### collection of scrots
 
 ##### _stv
-![git_tag](https://github.com/dkeg/scrots/blob/master/_stv-again.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_relax.png)
 
-##### _raiin
-![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
+##### _stv
+![git_tag](https://github.com/dkeg/scrots/blob/master/_stv-again.png)
 
 ##### _raiin
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
