@@ -3,6 +3,7 @@
 
 ##### _parkd
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_diner2.png)
 
 ##### _parkd
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_parkd.png)
