@@ -2,6 +2,9 @@
 ##### collection of scrots
 
 ##### _parkd
+![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
+
+##### _parkd
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_parkd.png)
 
 ##### _relax
