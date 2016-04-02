@@ -1,7 +1,7 @@
 ##### dkeg 2015
 ##### collection of scrots
 
-##### _parkd
+##### _diner
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_diner2.png)
 
