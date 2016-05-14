@@ -1,5 +1,13 @@
-##### dkeg 2015
+##### dkeg 2015, 2016
 ##### collection of scrots
+
+##### _sundr
+![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr2.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr3.png)
+
+##### _chaires
+![git_tag](https://github.com/dkeg/scrots/blob/master/_chaires.png)
 
 ##### _diner
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
