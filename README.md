@@ -3,15 +3,12 @@
 
 ##### _sundr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr2.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr3.png)
 
 ##### _chaires
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_chaires.png)
 
 ##### _diner
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
-![git_tag](https://github.com/dkeg/scrots/blob/master/_diner2.png)
 
 ##### _parkd
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_parkd.png)
