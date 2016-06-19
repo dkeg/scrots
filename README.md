@@ -1,6 +1,15 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
+##### _urban
+![git_tag](https://github.com/dkeg/scrots/blob/master/_urban.png)
+
+##### _vans
+![git_tag](https://github.com/dkeg/scrots/blob/master/_vans.png)
+
+##### _transposet
+![git_tag](https://github.com/dkeg/scrots/blob/master/_transposet.png)
+
 ##### _sundr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
 
