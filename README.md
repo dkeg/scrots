@@ -8,7 +8,7 @@
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_vans.png)
 
 ##### _transposet
-![git_tag](https://github.com/dkeg/scrots/blob/master/_transposet.png)
+![git_tag](https://github.com/dkeg/scrots/blob/master/_transposet2.png)
 
 ##### _sundr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
