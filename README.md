@@ -1,6 +1,9 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
+##### _slate
+![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
+
 ##### _fendr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_fendr.png)
 
