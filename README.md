@@ -1,6 +1,12 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
+##### _5725
+![git_tag](https://github.com/dkeg/scrots/blob/master/_5725.png)
+
+##### _flapr
+![git_tag](https://github.com/dkeg/scrots/blob/master/_flapr.png)
+
 ##### _slate
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
 
