@@ -28,6 +28,9 @@
 ##### _sundr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
 
+##### _book
+![git_tag](https://github.com/dkeg/scrots/blob/master/_book.png)
+
 ##### _chaires
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_chaires.png)
 
@@ -39,6 +42,18 @@
 
 ##### _relax
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_relax.png)
+
+##### _paints
+![git_tag](https://github.com/dkeg/scrots/blob/master/_paints.png)
+
+##### _petal
+![git_tag](https://github.com/dkeg/scrots/blob/master/_petal.png)
+
+##### _provrb
+![git_tag](https://github.com/dkeg/scrots/blob/master/_proberbial.png)
+
+##### _zent
+![git_tag](https://github.com/dkeg/scrots/blob/master/_zent.png)
 
 ##### _stv
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_stv-again.png)
