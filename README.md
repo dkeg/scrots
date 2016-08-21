@@ -1,6 +1,9 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
+##### _skigh
+![git_tag](https://github.com/dkeg/scrots/blob/master/_skigh.png)
+
 ##### _5725
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_5725.png)
 
