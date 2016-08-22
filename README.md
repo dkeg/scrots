@@ -10,9 +10,9 @@
 ##### _flapr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_flapr.png)
 
-#####_[shade](_shade)
+##### [shade](_shade)
 ![shade](_shade.png)
-##### _slate
+##### [skigh](_skigh) 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_skigh.png)
 
 ##### _slate
