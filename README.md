@@ -11,9 +11,9 @@
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_flapr.png)
 
 ##### [shade](_shade)
-![shade](_shade.png)
+![shade]([./_shade.png)
 ##### [skigh](_skigh) 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_skigh.png)
+![skigh](https://github.com/dkeg/scrots/blob/master/_skigh.png)
 
 ##### _slate
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
