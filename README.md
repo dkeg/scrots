@@ -1,36 +1,34 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
-##### _skigh
+#####shade
+![git_tag](https://github.com/dkeg/scrots/blob/master/_shade.png)
+
+#####skigh
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_skigh.png)
 
-##### _5725
+#####5725
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_5725.png)
 
-##### _flapr
+#####flapr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_flapr.png)
 
-##### [shade](_shade)
-![shade]([./_shade.png)
-##### [skigh](_skigh) 
-![skigh](https://github.com/dkeg/scrots/blob/master/_skigh.png)
-
-##### _slate
+#####slate
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
 
-##### _fendr
+#####_fendr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_fendr.png)
 
-##### _urban
+##### urban
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_urban.png)
 
-##### _vans
+#####_vans
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_vans.png)
 
-##### _transposet
+#####_transposet
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_transposet2.png)
 
-##### _sundr
+#####_sundr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
 
 ##### _book
