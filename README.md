@@ -31,35 +31,38 @@
 #####[slate](captures/_slate.png)
 ![slate](captures/_slate.png)
 
-#####fendr
-![git_tag](https://github.com/dkeg/scrots/blob/master/_fendr.png)
+#####[fendr](captures/_fendr.png)
+![fendr](captures/_fendr.png)
 
-#####urban
-![git_tag](https://github.com/dkeg/scrots/blob/master/_urban.png)
+#####[urban](captures/_urban.png)
+![urban](captures/_urban.png)
 
-#####vans
-![git_tag](https://github.com/dkeg/scrots/blob/master/_vans.png)
+#####[vans](captures/_vans.png)
+![vans](captures/_vans.png)
 
-#####transposet
-![git_tag](https://github.com/dkeg/scrots/blob/master/_transposet2.png)
+#####[transposet](captures/_transposet.png)
+![transposet](captures/_transposet.png)
 
-#####sundr
-![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
+#####[sundr](captures/_sundr.png)
+![sundr](captures/_sundr.png)
 
-#####book
-![git_tag](https://github.com/dkeg/scrots/blob/master/_book.png)
+#####[book](captures/_book.png)
+![book](captures/_book.png)
 
-#####chaires
-![git_tag](https://github.com/dkeg/scrots/blob/master/_chaires.png)
+#####[chaires](captures/_chaires.png)
+![chaires](captures/_chaires.png)
 
-#####diner
-![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
+#####[diner](captures/_diner.png)
+![diner](captures/_diner.png)
 
-#####parkd
-![git_tag](https://github.com/dkeg/scrots/blob/master/_parkd.png)
+#####[parkd](captures/_parkd.png)
+![parkd](captures/_parkd.png)
 
-#####relax
-![git_tag](https://github.com/dkeg/scrots/blob/master/_relax.png)
+#####[relax](captures/_relax.png)
+![relax](captures/_relax.png)
+
+#####[paints](captures/_paints.png)
+![paints](./crayolo/colors/paints)
 
 #####paints
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_paints.png)
