@@ -61,7 +61,7 @@
 #####[relax](captures/_relax.png)
 ![relax](captures/_relax.png)
 
-#####[paints](../crayolo/blob/master/colors/paints)
+#####[paints](https://github.com/dkeg/crayolo/blob/master/colors/paints)
 ![paints](captures/_paints.png)
 
 #####paints
