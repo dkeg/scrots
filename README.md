@@ -1,6 +1,21 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
+#####simplicity
+![git_tag](https://github.com/dkeg/scrots/blob/master/_simplicity.png)
+
+#####bluetype
+![git_tag](https://github.com/dkeg/scrots/blob/master/_bluetype.png)
+
+#####traffic
+![git_tag](https://github.com/dkeg/scrots/blob/master/_traffic.png)
+
+#####tealights
+![git_tag](https://github.com/dkeg/scrots/blob/master/_tealights.png)
+
+#####view
+![git_tag](https://github.com/dkeg/scrots/blob/master/_view.png)
+
 #####shade
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_shade.png)
 
@@ -16,108 +31,108 @@
 #####slate
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
 
-#####_fendr
+#####fendr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_fendr.png)
 
-##### urban
+#####urban
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_urban.png)
 
-#####_vans
+#####vans
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_vans.png)
 
-#####_transposet
+#####transposet
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_transposet2.png)
 
-#####_sundr
+#####sundr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_sundr.png)
 
-##### _book
+#####book
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_book.png)
 
-##### _chaires
+#####chaires
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_chaires.png)
 
-##### _diner
+#####diner
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_diner.png)
 
-##### _parkd
+#####parkd
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_parkd.png)
 
-##### _relax
+#####relax
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_relax.png)
 
-##### _paints
+#####paints
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_paints.png)
 
-##### _petal
+#####petal
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_petal.png)
 
-##### _provrb
+#####provrb
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_proberbial.png)
 
-##### _zent
+#####zent
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_zent.png)
 
-##### _stv
+#####stv
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_stv-again.png)
 
-##### _raiin
+#####raiin
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
 
-##### _bulb
+#####bulb
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_bulb.png)
 
-##### _novmbr
+#####novmbr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_novmbr.png)
 
-##### _autm
+#####autm
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_autm.png)
 
-##### _wintrymix
+#####wintrymix
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_wintrymix.png)
 
-##### _headphones 
+#####headphones 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_headphones.png)
 
-##### _schredd_d 
+#####schredd_d 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_schredd_d.png)
 
-##### _illusion 
+#####illusion 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_illusion.png)
 
-##### _squares 
+#####squares 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_squares.png)
 
-##### _minus2b 
+#####minus2b 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_minus2b.png)
 
-##### _harbing 
+#####harbing 
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_harbing.png)
 
-##### _poly
+#####poly
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_poly.png)
 
-##### _exposed
+#####exposed
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_exposed.png)
 
-#### _designr
+####designr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_designr.png)
 
-#### _victory
+####victory
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_victory.png)
 
-#### _bark
+####bark
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_bark.png)
 
-#### _pe4ch
+####pe4ch
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_pe4ch.png)
 
-#### _wavr
+####wavr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_wavr.png)
 
-#### _simple
+####simple
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_simple.png)
 
-#### _mail
+####mail
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_mail.png)
 
