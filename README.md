@@ -1,141 +1,134 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
-#####[simplicity](captures/_simplicity.png)
+#####[simplicity](https://github.com/dkeg/crayolo/blob/master/colors/simplicity)
 ![simplicity](captures/_simplicity.png)
 
-#####[bluetype](captures/_bluetype.png)
+#####[bluetype](https://github.com/dkeg/crayolo/blob/master/colors/bluetype)
 ![bluetype](captures/_bluetype.png)
 
-#####[traffic](captures/_traffic.png)
+#####[traffic](https://github.com/dkeg/crayolo/blob/master/colors/traffic)
 ![traffic](captures/_traffic.png)
 
-#####[tealights](captures/_tealights.png)
+#####[tealights](https://github.com/dkeg/crayolo/blob/master/colors/tealights)
 ![tealights](captures/_tealights.png)
 
-#####[view](captures/_view.png)
+#####[view](https://github.com/dkeg/crayolo/blob/master/colors/view)
 ![view](captures/_view.png)
 
-#####[shade](captures/_shade.png)
+#####[shade](https://github.com/dkeg/crayolo/blob/master/colors/shade)
 ![shade](captures/_shade.png)
 
-#####[skigh](captures/_skigh.png)
+#####[skigh](https://github.com/dkeg/crayolo/blob/master/colors/skigh)
 ![skigh](captures/_skigh.png)
 
-#####[5725](captures/_5725.png)
+#####[5725](https://github.com/dkeg/crayolo/blob/master/colors/5725)
 ![5725](captures/_5725.png)
 
-#####[flapr](captures/_flapr.png)
+#####[flapr](https://github.com/dkeg/crayolo/blob/master/colors/flapr)
 ![flapr](captures/_flapr.png)
 
-#####[slate](captures/_slate.png)
+#####[slate](https://github.com/dkeg/crayolo/blob/master/colors/slate)
 ![slate](captures/_slate.png)
 
-#####[fendr](captures/_fendr.png)
+#####[fendr](https://github.com/dkeg/crayolo/blob/master/colors/fendr)
 ![fendr](captures/_fendr.png)
 
-#####[urban](captures/_urban.png)
+#####[urban](https://github.com/dkeg/crayolo/blob/master/colors/urban)
 ![urban](captures/_urban.png)
 
-#####[vans](captures/_vans.png)
+#####[vans](https://github.com/dkeg/crayolo/blob/master/colors/vans)
 ![vans](captures/_vans.png)
 
-#####[transposet](captures/_transposet.png)
+#####[transposet](https://github.com/dkeg/crayolo/blob/master/colors/transposet)
 ![transposet](captures/_transposet.png)
 
-#####[sundr](captures/_sundr.png)
+#####[sundr](https://github.com/dkeg/crayolo/blob/master/colors/sundr)
 ![sundr](captures/_sundr.png)
 
-#####[book](captures/_book.png)
+#####[book](https://github.com/dkeg/crayolo/blob/master/colors/book)
 ![book](captures/_book.png)
 
-#####[chaires](captures/_chaires.png)
+#####[chaires](https://github.com/dkeg/crayolo/blob/master/colors/chaires)
 ![chaires](captures/_chaires.png)
 
-#####[diner](captures/_diner.png)
+#####[diner](https://github.com/dkeg/crayolo/blob/master/colors/diner)
 ![diner](captures/_diner.png)
 
-#####[parkd](captures/_parkd.png)
+#####[parkd](https://github.com/dkeg/crayolo/blob/master/colors/parkd)
 ![parkd](captures/_parkd.png)
 
-#####[relax](captures/_relax.png)
+#####[relax](https://github.com/dkeg/crayolo/blob/master/colors/relax)
 ![relax](captures/_relax.png)
 
 #####[paints](https://github.com/dkeg/crayolo/blob/master/colors/paints)
 ![paints](captures/_paints.png)
 
-#####paints
-![git_tag](https://github.com/dkeg/scrots/blob/master/_paints.png)
+#####[petal](https://github.com/dkeg/crayolo/blob/master/colors/petal)
+![petal](captures/_petal.png)
 
-#####petal
-![git_tag](https://github.com/dkeg/scrots/blob/master/_petal.png)
+#####[provrb](https://github.com/dkeg/crayolo/blob/master/colors/provrb)
+![provrb](captures/_provrb.png)
 
-#####provrb
-![git_tag](https://github.com/dkeg/scrots/blob/master/_proberbial.png)
+#####[zent](https://github.com/dkeg/crayolo/blob/master/colors/zent)
+![zent](captures/_zent.png)
 
-#####zent
-![git_tag](https://github.com/dkeg/scrots/blob/master/_zent.png)
+#####[stv](https://github.com/dkeg/crayolo/blob/master/colors/stv)
+![stv](captures/_stv.png)
 
-#####stv
-![git_tag](https://github.com/dkeg/scrots/blob/master/_stv-again.png)
+#####[raiin](https://github.com/dkeg/crayolo/blob/master/colors/raiin)
+![raiin](captures/_raiin.png)
 
-#####raiin
-![git_tag](https://github.com/dkeg/scrots/blob/master/_raiin.png)
+#####[bulb](https://github.com/dkeg/crayolo/blob/master/colors/bulb)
+![bulb](captures/_bulb.png)
 
-#####bulb
-![git_tag](https://github.com/dkeg/scrots/blob/master/_bulb.png)
+#####[novmbr](https://github.com/dkeg/crayolo/blob/master/colors/novmbr)
+![novmbr](captures/_novmbr.png)
 
-#####novmbr
-![git_tag](https://github.com/dkeg/scrots/blob/master/_novmbr.png)
+#####[autm](https://github.com/dkeg/crayolo/blob/master/colors/autm)
+![autm](captures/_autm.png)
 
-#####autm
-![git_tag](https://github.com/dkeg/scrots/blob/master/_autm.png)
+#####[wintry](https://github.com/dkeg/crayolo/blob/master/colors/wintry)
+![wintry](captures/_wintry.png)
 
-#####wintrymix
-![git_tag](https://github.com/dkeg/scrots/blob/master/_wintrymix.png)
+#####[escen](https://github.com/dkeg/crayolo/blob/master/colors/escen)
+![headphones](captures/_headphones.png)
 
-#####headphones 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_headphones.png)
+#####[depth](https://github.com/dkeg/crayolo/blob/master/colors/depth)
+![schredd_d](captures/_schredd_d.png)
 
-#####schredd_d 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_schredd_d.png)
+#####[fury](https://github.com/dkeg/crayolo/blob/master/colors/fury)
+![illusion](captures/_illusion.png)
 
-#####illusion 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_illusion.png)
+#####[squares](https://github.com/dkeg/crayolo/blob/master/colors/squares)
+![squares](captures/_squares.png)
 
-#####squares 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_squares.png)
+#####[scape](https://github.com/dkeg/crayolo/blob/master/colors/scape)
+![minus2b](captures/_minus2b.png)
 
-#####minus2b 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_minus2b.png)
+#####[harbing](https://github.com/dkeg/crayolo/blob/master/colors/harbing)
+![harbing](captures/_harbing.png)
 
-#####harbing 
-![git_tag](https://github.com/dkeg/scrots/blob/master/_harbing.png)
+#####[poly](https://github.com/dkeg/crayolo/blob/master/colors/poly)
+![poly](captures/_poly.png)
 
-#####poly
-![git_tag](https://github.com/dkeg/scrots/blob/master/_poly.png)
+#####[leaf](https://github.com/dkeg/crayolo/blob/master/colors/leaf)
+![exposed](captures/_exposed.png)
 
-#####exposed
-![git_tag](https://github.com/dkeg/scrots/blob/master/_exposed.png)
+#####[designr](https://github.com/dkeg/crayolo/blob/master/colors/designr)
+![designr](captures/_designr.png)
 
-####designr
-![git_tag](https://github.com/dkeg/scrots/blob/master/_designr.png)
+#####[victory](https://github.com/dkeg/crayolo/blob/master/colors/victory)
+![victory](captures/_victory.png)
 
-####victory
-![git_tag](https://github.com/dkeg/scrots/blob/master/_victory.png)
+#####[bark](https://github.com/dkeg/crayolo/blob/master/colors/bark)
+![bark](captures/_bark.png)
 
-####bark
-![git_tag](https://github.com/dkeg/scrots/blob/master/_bark.png)
+#####[bark](https://github.com/dkeg/crayolo/blob/master/colors/bark)
+![pe4ch](captures/_pe4ch.png)
 
-####pe4ch
-![git_tag](https://github.com/dkeg/scrots/blob/master/_pe4ch.png)
+#####[mattd](https://github.com/dkeg/crayolo/blob/master/colors/mattd)
+![wavr](captures/_wavr.png)
 
-####wavr
-![git_tag](https://github.com/dkeg/scrots/blob/master/_wavr.png)
-
-####simple
-![git_tag](https://github.com/dkeg/scrots/blob/master/_simple.png)
-
-####mail
-![git_tag](https://github.com/dkeg/scrots/blob/master/_mail.png)
-
+#####[scag](https://github.com/dkeg/crayolo/blob/master/colors/scag)
+![simple](captures/_simple.png)
