@@ -61,8 +61,8 @@
 #####[relax](captures/_relax.png)
 ![relax](captures/_relax.png)
 
-#####[paints](captures/_paints.png)
-![paints](./crayolo/colors/paints)
+#####[paints](../crayolo/colors/paints)
+![paints](captures/_paints.png)
 
 #####paints
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_paints.png)
