@@ -1,35 +1,35 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
-#####[simplicity](captures/_simplicity)
+#####[simplicity](captures/_simplicity.png)
 ![simplicity](captures/_simplicity.png)
 
 #####[bluetype](captures/_bluetype.png)
 ![bluetype](captures/_bluetype.png)
 
-#####traffic
-![git_tag](https://github.com/dkeg/scrots/blob/master/_traffic.png)
+#####[traffic](captures/_traffic.png)
+![traffic](captures/_traffic.png)
 
-#####tealights
-![git_tag](https://github.com/dkeg/scrots/blob/master/_tealights.png)
+#####[tealights](captures/_tealights.png)
+![tealights](captures/_tealights.png)
 
-#####view
-![git_tag](https://github.com/dkeg/scrots/blob/master/_view.png)
+#####[view](captures/_view.png)
+![view](captures/_view.png)
 
-#####shade
-![git_tag](https://github.com/dkeg/scrots/blob/master/_shade.png)
+#####[shade](captures/_shade.png)
+![shade](captures/_shade.png)
 
-#####skigh
-![git_tag](https://github.com/dkeg/scrots/blob/master/_skigh.png)
+#####[skigh](captures/_skigh.png)
+![skigh](captures/_skigh.png)
 
-#####5725
-![git_tag](https://github.com/dkeg/scrots/blob/master/_5725.png)
+#####[5725](captures/_5725.png)
+![5725](captures/_5725.png)
 
-#####flapr
-![git_tag](https://github.com/dkeg/scrots/blob/master/_flapr.png)
+#####[flapr](captures/_flapr.png)
+![flapr](captures/_flapr.png)
 
-#####slate
-![git_tag](https://github.com/dkeg/scrots/blob/master/_slate.png)
+#####[slate](captures/_slate.png)
+![slate](captures/_slate.png)
 
 #####fendr
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_fendr.png)
