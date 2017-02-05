@@ -16,11 +16,25 @@
 #####[view](https://github.com/dkeg/crayolo/blob/master/colors/view)
 ![view](captures/_view.png)
 
+#####[kit](https://github.com/dkeg/crayolo/blob/master/colors/kit)
+![kit](captures/_kit.png)
+
+#####[sprout](https://github.com/dkeg/crayolo/blob/master/colors/sprout)
+![sprout1](captures/_sprout1.png)
+![sprout2](captures/_sprout2.png)
+
 #####[shade](https://github.com/dkeg/crayolo/blob/master/colors/shade)
 ![shade](captures/_shade.png)
 
+#####[spire](https://github.com/dkeg/crayolo/blob/master/colors/spire)
+![spire](captures/_spire.png)
+
 #####[skigh](https://github.com/dkeg/crayolo/blob/master/colors/skigh)
+![newskigh](captures/_newskigh.png)
 ![skigh](captures/_skigh.png)
+
+#####[brownstone](https://github.com/dkeg/crayolo/blob/master/colors/brownstone)
+![brownstone](captures/_brownstone.png)
 
 #####[5725](https://github.com/dkeg/crayolo/blob/master/colors/5725)
 ![5725](captures/_5725.png)
@@ -34,11 +48,17 @@
 #####[fendr](https://github.com/dkeg/crayolo/blob/master/colors/fendr)
 ![fendr](captures/_fendr.png)
 
+#####[lumen](https://github.com/dkeg/crayolo/blob/master/colors/lumen)
+![lumen](captures/_lumen.png)
+
 #####[urban](https://github.com/dkeg/crayolo/blob/master/colors/urban)
 ![urban](captures/_urban.png)
 
 #####[vans](https://github.com/dkeg/crayolo/blob/master/colors/vans)
 ![vans](captures/_vans.png)
+
+#####[forst](https://github.com/dkeg/crayolo/blob/master/colors/forst)
+![forst](captures/_forst.png)
 
 #####[transposet](https://github.com/dkeg/crayolo/blob/master/colors/transposet)
 ![transposet](captures/_transposet.png)
@@ -70,8 +90,8 @@
 #####[provrb](https://github.com/dkeg/crayolo/blob/master/colors/provrb)
 ![provrb](captures/_provrb.png)
 
-#####[zent](https://github.com/dkeg/crayolo/blob/master/colors/zent)
-![zent](captures/_zent.png)
+#####[blok](https://github.com/dkeg/crayolo/blob/master/colors/blok)
+![blok](captures/_blok.png)
 
 #####[stv](https://github.com/dkeg/crayolo/blob/master/colors/stv)
 ![stv](captures/_stv.png)
