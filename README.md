@@ -2,7 +2,7 @@
 ##### collection of scrots
 
 #####simplicity
-![git_tag](https://github.com/dkeg/scrots/blob/master/_simplicity.png)
+![git_tag](scrots/captures/_simplicity.png)
 
 #####bluetype
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_bluetype.png)
