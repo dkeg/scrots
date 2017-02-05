@@ -1,11 +1,11 @@
 ##### dkeg 2015, 2016
 ##### collection of scrots
 
-#####simplicity
-![git_tag](scrots/captures/_simplicity.png)
+#####_[simplicity](captures/simplicity)
+![simplicity](captures/_simplicity.png)
 
 #####bluetype
-![git_tag](https://github.com/dkeg/scrots/blob/master/_bluetype.png)
+![git_tag](captures/_bluetype.png)
 
 #####traffic
 ![git_tag](https://github.com/dkeg/scrots/blob/master/_traffic.png)
